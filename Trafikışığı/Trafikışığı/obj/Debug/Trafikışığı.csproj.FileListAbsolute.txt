@@ -1,0 +1,10 @@
+D:\vs projeler\Trafikışığı\Trafikışığı\bin\Debug\Trafikışığı.exe.config
+D:\vs projeler\Trafikışığı\Trafikışığı\bin\Debug\Trafikışığı.exe
+D:\vs projeler\Trafikışığı\Trafikışığı\bin\Debug\Trafikışığı.pdb
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.csprojAssemblyReference.cache
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.Form1.resources
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.Properties.Resources.resources
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.csproj.GenerateResource.cache
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.csproj.CoreCompileInputs.cache
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.exe
+D:\vs projeler\Trafikışığı\Trafikışığı\obj\Debug\Trafikışığı.pdb
